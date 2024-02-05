@@ -1,0 +1,5 @@
+Hola git
+Git init "Creamos un repositorio"
+Git status "Vemos info del repositorio"
+Git add "Pasar archivo al area de seguimiento"
+Git add -m "Un mensaje representativo"
