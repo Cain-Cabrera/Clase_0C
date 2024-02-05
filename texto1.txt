@@ -2,4 +2,7 @@ Hola git
 Git init "Creamos un repositorio"
 Git status "Vemos info del repositorio"
 Git add "Pasar archivo al area de seguimiento"
-Git add -m "Un mensaje representativo"
+Git add -m "Un mensaje representativo o añadir un msj"
+git push origin master = subo commits al remoto
+git pull orging master = trae los commits nuevos del remoto 
+
